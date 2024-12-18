@@ -10,7 +10,7 @@ Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará os projetos que ve
         
 📊 Base de Dados:
 
-    🗂️ Disponibilização das bases de dados utilizadas para os projetos.
+        🗂️ Disponibilização das bases de dados utilizadas para os projetos.
 
 💻 Consultas SQL:
 
