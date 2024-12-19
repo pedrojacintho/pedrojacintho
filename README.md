@@ -19,12 +19,7 @@ Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará os projetos que ve
 
 ---
 
-## 📂 Projetos em Destaque
-
-### 🚍 **Análise do Transporte Público**
-- **Descrição:** Um estudo aprofundado sobre os padrões de uso do transporte público, identificando horários de pico e rotas mais movimentadas.
-- **Ferramentas Utilizadas:** SQL para extração e manipulação de dados.
-- **Destaques:** Insights que possibilitaram a otimização de rotas e alocação de recursos.
+## 📂 Projeto em Destaque
 
 ### 🏎️ **Análise de Dados da Fórmula 1**
 - **Descrição:** Uma análise detalhada da temporada 2022 da Fórmula 1, explorando o desempenho de pilotos e equipes ao longo daquele ano.
